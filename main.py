@@ -2,7 +2,7 @@ print('Это основной модуль main.py, его имя в проце
 
 
 import pack_2
-
+import random
 
 print(dir())
 print(dir(pack_2))
